@@ -239,7 +239,7 @@ If Side Screen is useful to you, consider supporting development:
 
 <div align="center">
 
-Made with ❤️ by **Tran Vuong Quoc Dat**
+Made with ❤️ by **Rishab Jain**
 
 [Report Bug](https://github.com/Rishabjainwork/tablet-as-side-screen-for-mac/issues) · [Request Feature](https://github.com/Rishabjainwork/tablet-as-side-screen-for-mac/issues) · [Discussions](https://github.com/Rishabjainwork/tablet-as-side-screen-for-mac/discussions)
 
